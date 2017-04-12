@@ -1,0 +1,25 @@
+.container-fluid{
+margin:0 auto;
+padding:0px;
+}	
+.bas_soz{
+position:absolute;
+left:160px;
+}
+.formda{
+position:absolute;
+right:150px;
+}
+.formda button{
+color:white;
+background:red;
+}
+.header_hisse{
+margin-top:-20px;
+}
+.header_hisse .header1{
+margin-left:100px;	
+}
+.ikinci{
+margin-left:150px;
+}
